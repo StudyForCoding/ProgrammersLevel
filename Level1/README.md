@@ -15,3 +15,8 @@
 - 2016년 - [Lessons12901](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12901/README.md)
 - 3진법 뒤집기 - [Lessons68935](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons68935/README.md)
 - 가운데 글자 가져오기 - [Lessons12903](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12903/README.md)
+- 키패드 누르기 - [Lessons67256](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons67256/README.md)
+- 소수 만들기 - [Lessons12977](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12977/README.md)
+- 내적 - [Lessons70128](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons70128/README.md)
+- 음양 더하기 - [Lessons76501](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons76501/README.md)
+- 로또의 최고 순위와 최저 순위 - [Lessons77484](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons77484/README.md)
