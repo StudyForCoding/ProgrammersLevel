@@ -20,3 +20,8 @@
 - 내적 - [Lessons70128](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons70128/README.md)
 - 음양 더하기 - [Lessons76501](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons76501/README.md)
 - 로또의 최고 순위와 최저 순위 - [Lessons77484](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons77484/README.md)
+- 폰켓몬 - [Lessons1845](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons1845/README.md)
+- 예산 - [Lessons12982](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12982/README.md)
+- 실패율 - [Lessons42889](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons42889/README.md)
+- [1차]비밀지도 - [Lessons17681](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons17681/README.md)
+- [1차]다트게임 - [Lessons17682](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons17682/README.md)
