@@ -25,3 +25,8 @@
 - 실패율 - [Lessons42889](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons42889/README.md)
 - [1차]비밀지도 - [Lessons17681](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons17681/README.md)
 - [1차]다트게임 - [Lessons17682](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons17682/README.md)
+- 약수의 개수와 덧셈 - [Lessons77884](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons77884/README.md)
+- 같은 숫자는 싫어 - [Lessons12906](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12906/README.md)
+- 나누어 떨어지는 숫자 배열 - [Lessons12910](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12910/README.md)
+- 두 정수 사이의 합 - [Lessons12912](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12912/README.md)
+- 문자열 내 마음대로 정렬하기 - [Lessons12915](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12915/README.md)
