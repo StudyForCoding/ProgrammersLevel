@@ -35,3 +35,14 @@
 - 정수 내림차순으로 배치하기 - [Lessons12933](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12933/README.md)
 - 정수 제곱근 판별 - [Lessons12934](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12934/README.md)
 - 제일 작은 수 제거하기 - [Lessons12935](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12935/README.md)
+- 직사각형 별찍기 - [Lessons12969](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12969/README.md)
+- x만큼 간격이 있는 n개의 숫자 - [Lessons12954](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12954/README.md)
+- 행렬의 덧셈 - [Lessons12950](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12950/README.md)
+- 핸드폰 번호 가리기 - [Lessons12948](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12948/README.md)
+- 하샤드 수 - [Lessons12947](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12947/README.md)
+- 평균 구하기 - [Lessons12944](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12944/README.md)
+
+- 콜라츠 추측 - [Lessons12943](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12943/README.md)
+- 최대공약수와 최소공배수 - [Lessons12940](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12940/README.md)
+
+- 짝수와 홀수 - [Lessons12937](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12937/README.md)
