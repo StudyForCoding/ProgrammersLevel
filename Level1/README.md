@@ -41,8 +41,22 @@
 - 핸드폰 번호 가리기 - [Lessons12948](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12948/README.md)
 - 하샤드 수 - [Lessons12947](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12947/README.md)
 - 평균 구하기 - [Lessons12944](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12944/README.md)
-
 - 콜라츠 추측 - [Lessons12943](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12943/README.md)
 - 최대공약수와 최소공배수 - [Lessons12940](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12940/README.md)
-
 - 짝수와 홀수 - [Lessons12937](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12937/README.md)
+
+
+
+
+
+- 문자열 내 p와 y의 개수 - [Lessons12916](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12916/README.md)
+- 문자열 다루기 기본 - [Lessons12918](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12918/README.md)
+- 문자열 내림차순으로 배치하기 - [Lessons12917](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12917/README.md)
+- 서울에서 김서방 찾기 - [Lessons12919](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12919/README.md)
+- 소수 찾기 - [Lessons12921](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12921/README.md)
+- 수박수박수박수박수박수? - [Lessons12922](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12922/README.md)
+- 문자열을 정수로 바꾸기 - [Lessons12925](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12925/README.md)
+- 시저 암호 - [Lessons12926](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12926/README.md)
+- 약수의 합 - [Lessons12928](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12928/README.md)
+- 이상한 문자 만들기 - [Lessons12930](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/Lessons12930/README.md)
+
