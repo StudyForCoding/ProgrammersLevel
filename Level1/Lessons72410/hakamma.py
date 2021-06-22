@@ -7,16 +7,13 @@ def solution(new_id):
     for word in new_id:
         if word.isalpha() or word.isdigit() or word in '-' or word in '.' or word in '_':
             answer += word
+    
             
     while '..' in answer:
         answer = answer.replace('..', '.')
     
-    if answer[0] == '.':
-        answer = answer[1:]
-    
-    if answer[-1] == '.':
-        answer = answer[:-1]
-    
+    answer = answer.strip('.')
+
     if answer == '':
         answer = 'a'
     
