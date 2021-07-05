@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "C:\\Users\\najy9\\anaconda3\\envs\\capstone\\python.exe"
+    "python.pythonPath": "C:\\Users\\najy9\\anaconda3\\envs\\capstone\\python.exe",
+    "files.associations": {
+        "system_error": "c",
+        "xlocale": "c"
+    }
 }
