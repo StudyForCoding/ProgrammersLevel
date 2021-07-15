@@ -17,4 +17,10 @@
 - [3차] n진수 게임 - [Lessons17687](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level2/Lessons17687/README.md)
 - 다음 큰 숫자 - [Lessons12911](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level2/Lessons12911/README.md)
 - 땅따먹기 - [Lessons12913](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level2/Lessons12913/README.md)
+- [3차] 압축 - [Lessons17684](https://programmers.co.kr/learn/courses/30/lessons/17684)
+- [3차] 방금그곡 - [Lessons17683](https://programmers.co.kr/learn/courses/30/lessons/17683)
+- 가장 큰 정사각형 찾기 - [Lessons12905](https://programmers.co.kr/learn/courses/30/lessons/12905)
+- 방문 길이 - [Lessons49994](https://programmers.co.kr/learn/courses/30/lessons/49994)
+- 쿼드압축 후 개수세기 - [Lessons68936](https://programmers.co.kr/learn/courses/30/lessons/68936)
+- 스킬트리 - [Lessons49993](https://programmers.co.kr/learn/courses/30/lessons/49993)
 
