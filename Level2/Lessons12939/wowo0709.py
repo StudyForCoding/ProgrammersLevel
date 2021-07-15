@@ -2,12 +2,8 @@
 
 def solution(s):
     n = list(map(int,s.split()))
-    mymax,mymin = n[0],n[0]
-    for nbr in n:
-        if nbr > mymax: mymax = nbr
-        elif nbr < mymin: mymin = nbr
 
-    return " ".join([str(mymin),str(mymax)])
+    return " ".join([str(min(n)),str(max(n))])
 
 '''
 정확성  테스트

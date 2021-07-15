@@ -3,12 +3,8 @@
 def solution(s):
     ans = ""
     for i in range(len(s)):
-        if i == 0 or s[i-1] == " ":
-            try: ans += s[i].upper()
-            except: ans += s[i]
-        else:
-            try: ans += s[i].lower()
-            except: ans += s[i]
+        if i == 0 or s[i-1] == " ": ans += s[i].upper()
+        else: ans += s[i].lower()
 
     return ans
 
