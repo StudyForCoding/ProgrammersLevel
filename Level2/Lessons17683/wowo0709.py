@@ -16,9 +16,8 @@ def solution(m,musicinfos):
         startTime, endTime, title, scales = musicinfo.split(',')
         playtime = (int(endTime[0:2]) - int(startTime[0:2])) * 60 + (int(endTime[3:]) - int(startTime[3:]))
         
-        for scale in scaleList[::-1]: # '#'음들을 먼저 교체해야 함
-            try: scales = scales.replace(scale,scaleDict[scale])
-            except: continue
+        for scale in scaleList[::-1]: # '#'음들을 먼저 변환해야 함
+            scales = scales.replace(scale,scaleDict[scale])
         
         q,r = divmod(playtime,len(scales)) # 전체재생수,추가재생시간
         scales = scales*q + scales[:r]
@@ -26,9 +25,7 @@ def solution(m,musicinfos):
         musicList.append([playtime,title,scales])
 
     # m도 변환
-    for scale in scaleList[::-1]:
-        try: m = m.replace(scale,scaleDict[scale])
-        except: continue
+    for scale in scaleList[::-1]: m = m.replace(scale,scaleDict[scale])
     # 재생시간이 긴 순으로 정답 반환 (문제 조건)
     for playtime, title, scales in sorted(musicList,key = lambda music: music[0], reverse=True):
         if m in scales: return title
