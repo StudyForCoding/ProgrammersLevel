@@ -4,15 +4,14 @@ from string import ascii_uppercase
 def solution(msg):
     zip_dict = dict(zip(ascii_uppercase,range(1,27)))
     zip_list = []
-    N, check_idx = len(msg), 0
+    N,i = len(msg),0
     
-    for i in range(N):
-        if i < check_idx: continue
+    while i < N:
         for j in range(i,N):
             if msg[i:j+1] not in zip_dict:
                 zip_list.append(zip_dict[msg[i:j]])
                 zip_dict[msg[i:j+1]] = len(zip_dict)+1
-                check_idx = j
+                i = j
                 break
             if j == N-1:
                 zip_list.append(zip_dict[msg[i:j+1]])
