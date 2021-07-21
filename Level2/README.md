@@ -26,3 +26,9 @@
 - 쿼드압축 후 개수세기 - [Lessons68936](https://github.com/StudyForCoding/ProgrammersLevel/tree/main/Level2/Lessons68936/README.md)
 - 스킬트리 - [Lessons49993](https://github.com/StudyForCoding/ProgrammersLevel/tree/main/Level2/Lessons49993/README.md)
 
+* 괄호 변환 - [Lessons60058](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons60058/README.md)
+* 조이스틱 - [Lessons42860](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons42860/README.md)
+* 카펫 - [Lessons42842](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons42842/README.md)
+* 배달 - [Lessons12978](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons12978/README.md)
+* 위장 - [Lessons42578](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons42578/README.md)
+
