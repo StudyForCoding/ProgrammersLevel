@@ -1,11 +1,5 @@
 # 2개 이하로 다른 비트
 
-- darklight
-
-- sublimevimemacs
-
-- Python3 
-
 ###### 문제 설명
 
 양의 정수 `x`에 대한 함수 `f(x)`를 다음과 같이 정의합니다.
