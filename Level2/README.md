@@ -30,4 +30,9 @@
 - 카펫 - [Lessons42842](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons42842/README.md)
 - 배달 - [Lessons12978](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons12978/README.md)
 - 위장 - [Lessons42578](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons42578/README.md)
-
+- 점프와 순간 이동 - [Lessons12980](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons12980/README.md)
+- [1차] 프렌즈4블록 - [Lessons17679](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons17679/README.md)
+- [1차] 캐시 - [Lessons17680](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons17680/README.md)
+- 주식가격 - [Lessons42584](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons42584/README.md)
+- 이진 변환 반복하기 - [Lessons70129](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons70129/README.md)
+- 2개 이하로 다른 비트 - [Lessons77885](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons77885/README.md)
