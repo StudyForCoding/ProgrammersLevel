@@ -36,3 +36,7 @@
 - 주식가격 - [Lessons42584](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons42584/README.md)
 - 이진 변환 반복하기 - [Lessons70129](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons70129/README.md)
 - 2개 이하로 다른 비트 - [Lessons77885](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons77885/README.md)
+- 순위 검색 - [Lessons72412](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons72412/README.md)
+- 구명보트 - [Lessons42885](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons42885/README.md)
+- 영어 끝말잇기 - [Lessons12981](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons12981/README.md)
+- 삼각 달팽이 - [Lessons68645](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons68645/README.md)
