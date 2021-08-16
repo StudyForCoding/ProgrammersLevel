@@ -40,3 +40,6 @@
 - 구명보트 - [Lessons42885](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons42885/README.md)
 - 영어 끝말잇기 - [Lessons12981](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons12981/README.md)
 - 삼각 달팽이 - [Lessons68645](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons68645/README.md)
+- 가장 큰 수 - [Lessons42746](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons42746/README.md)
+- 소수 찾기 - [Lessons42839](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons42839/README.md)
+- 괄호 회전하기 - [Lessons76502](https://github.com/StudyForCoding/ProgrammersLevel/blob/main/Level2/Lessons76502/README.md)
