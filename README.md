@@ -1,16 +1,17 @@
 # Programmers
-[프로그래머스](https://programmers.co.kr/learn/challenges) 문제 풀이
-언어: python3
+\- [프로그래머스](https://programmers.co.kr/learn/challenges?tab=all_challenges) 문제 풀이
+
+\- 언어: python3
 
 ---
 
 ### 카테고리 목록
 
-- [Level1](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level1/README.md)
-- [Level2](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level2/README.md)
-- [Level3](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level3/README.md)
-- [Level4](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level4/README.md) 
-- [Level5](https://github.com/StudyForCoding/ProgrammersLevel/tree/master/Level5/README.md)
+- [Level1](https://github.com/StudyForCoding/ProgrammersLevel/tree/main/Level1/README.md)
+- [Level2](https://github.com/StudyForCoding/ProgrammersLevel/tree/main/Level2/README.md)
+- [Level3](https://github.com/StudyForCoding/ProgrammersLevel/tree/main/Level3/README.md)
+- [Level4](https://github.com/StudyForCoding/ProgrammersLevel/tree/main/Level4/README.md) 
+- [Level5](https://github.com/StudyForCoding/ProgrammersLevel/tree/main/Level5/README.md)
 
 ---
 
