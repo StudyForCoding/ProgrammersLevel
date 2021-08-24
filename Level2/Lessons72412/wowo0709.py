@@ -69,7 +69,7 @@ def solution(infos, querys):
 합계: 100.0 / 100.0
 '''
 
-''' dict.get() 썼을 대
+''' dict.get() 썼을 때
 정확성  테스트
 테스트 1 〉	통과 (1.07ms, 10.4MB)
 테스트 2 〉	통과 (1.10ms, 10.4MB)

@@ -12,10 +12,7 @@ def is_correct(parenthesis):
     return False
 
 def solution(s):
-    # return sum([is_correct(s[i+1:]+s[:i+1]) for i in range(len(s))])
-    ans = 0
-    for i in range(len(s)): ans += is_correct(s[i+1:]+s[:i+1])
-    return ans 
+    return sum([is_correct(s[i+1:]+s[:i+1]) for i in range(len(s))])
 
 
 '''
