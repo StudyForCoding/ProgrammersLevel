@@ -14,7 +14,7 @@ def solution(n):
             snail[i][j] = num
             num += 1
 
-    return list(chain.from_iterable(snail))
+    return list(chain.from_iterable(snail))  
 
 
 '''
